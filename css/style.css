@@ -1,0 +1,28 @@
+body{
+  padding:10em;
+}
+.col-lg-12{
+  background-color:grey;
+  width:50%;
+  margin-left:25%;
+  padding:2em;
+  border-radius:10px;
+}
+.btn{
+  margin-top:20px;
+  margin-right:10px;
+}
+#cont{
+  background-color:white;
+  padding:1.5em;
+  width:80%;
+  margin-left:10%;
+  border-radius:10px;
+  font-size:20px;
+}
+@media screen and (max-width: 1200px) {
+  .col-lg-12{
+    width:80%;
+    margin-left:10%;
+  }
+}
